@@ -3,3 +3,4 @@ dados/radar-ultima-validada.json
 __pycache__/
 .DS_Store
 *.local
+site/.vercel/
