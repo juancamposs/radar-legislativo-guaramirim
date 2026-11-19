@@ -1,0 +1,16 @@
+{
+  "_comentario": "Nomes oficiais conforme 'Vereadores em Exercício' (guaramirim.sc.leg.br/camara/membros/exercicio/0). 'apelidos' = outras grafias usadas nas atas e matérias. Edite aqui se a Câmara mudar a composição.",
+  "legislatura": "2025–2028",
+  "inicio_periodo": "2025-01-01",
+  "vereadores": [
+    {"slug": "ademir-hubert", "nome": "Ademir Hubert", "apelidos": []},
+    {"slug": "cristiana-poltronieri-ziehlsdorff", "nome": "Cristiana Poltronieri Ziehlsdorff", "apelidos": ["Cristiana Ziehlsdorff"]},
+    {"slug": "emerson-flores-da-silva", "nome": "Emerson Flores da Silva", "apelidos": []},
+    {"slug": "jaime-decker", "nome": "Jaime Decker", "apelidos": []},
+    {"slug": "jocinei-de-oliveira-borba", "nome": "Jocinei de Oliveira Borba", "apelidos": ["Jocinei Borba"]},
+    {"slug": "marcelo-amadeu-deretti", "nome": "Marcelo Amadeu Deretti", "apelidos": ["Marcelo Deretti"]},
+    {"slug": "marildo-da-silva-erthal", "nome": "Marildo da Silva Erthal", "apelidos": ["Marildo Erthal"]},
+    {"slug": "osvaldo-pereira-barbosa", "nome": "Osvaldo Pereira Barbosa", "apelidos": []},
+    {"slug": "professora-maria-rosana", "nome": "Professora Maria Rosana", "apelidos": ["Maria Rosana Zermiani Franz", "Prof. Maria Rosana Z. Franz", "Prof. Maria Rosana Zermiani Franz", "Maria Rosana Z. Franz", "Professora Maria Rosana Zermiani Franz", "Professora Maria Rosana Z Franz", "Maria Rosana Z Franz"]}
+  ]
+}

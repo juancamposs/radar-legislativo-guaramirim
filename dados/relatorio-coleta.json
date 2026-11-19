@@ -1,0 +1,188 @@
+{
+ "gerado_em": "2026-11-19T22:00:09+00:00",
+ "materias": 888,
+ "materias_por_tipo": {
+  "INDICAÇÃO": 726,
+  "PEDIDO DE INFORMAÇÃO": 26,
+  "PROJETO DE LEI ORDINÁRIA": 71,
+  "PROJETO DE LEI COMPLEMENTAR": 4,
+  "MOÇÃO": 28,
+  "REQUERIMENTO": 20,
+  "EMENDA ADITIVA": 1,
+  "VETO": 6,
+  "EMENDA MODIFICATIVA": 1,
+  "EMENDA": 3,
+  "MOÇÃO DE APOIO": 1,
+  "PROJETO DE RESOLUÇÃO": 1
+ },
+ "materias_por_grupo": {
+  "bairros": 408,
+  "outros": 318,
+  "informacao": 46,
+  "leis": 69,
+  "homenagens": 47
+ },
+ "sessoes": 126,
+ "sessoes_com_presenca": 125,
+ "votacoes": 480,
+ "votacoes_nominais": 122,
+ "nomes_nao_resolvidos": {
+  "Poder Executivo": 23,
+  "Comissão de Legislação": 3,
+  "Justiça": 3,
+  "Redação (LJR)": 3,
+  "Mesa Diretora": 2
+ },
+ "lacunas": [
+  {
+   "tipo": "INDICAÇÃO",
+   "ano": 2025,
+   "encontradas": 396,
+   "maior_numero": 397,
+   "faltando": 1,
+   "exemplos": [
+    370
+   ]
+  },
+  {
+   "tipo": "MOÇÃO",
+   "ano": 2025,
+   "encontradas": 9,
+   "maior_numero": 10,
+   "faltando": 1,
+   "exemplos": [
+    2
+   ]
+  },
+  {
+   "tipo": "MOÇÃO",
+   "ano": 2026,
+   "encontradas": 19,
+   "maior_numero": 20,
+   "faltando": 1,
+   "exemplos": [
+    18
+   ]
+  },
+  {
+   "tipo": "MOÇÃO DE APOIO",
+   "ano": 2025,
+   "encontradas": 1,
+   "maior_numero": 2,
+   "faltando": 1,
+   "exemplos": [
+    1
+   ]
+  },
+  {
+   "tipo": "PROJETO DE LEI COMPLEMENTAR",
+   "ano": 2025,
+   "encontradas": 1,
+   "maior_numero": 18,
+   "faltando": 17,
+   "exemplos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ]
+  },
+  {
+   "tipo": "PROJETO DE LEI COMPLEMENTAR",
+   "ano": 2026,
+   "encontradas": 3,
+   "maior_numero": 18,
+   "faltando": 15,
+   "exemplos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16
+   ]
+  },
+  {
+   "tipo": "PROJETO DE LEI ORDINÁRIA",
+   "ano": 2025,
+   "encontradas": 31,
+   "maior_numero": 121,
+   "faltando": 90,
+   "exemplos": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    15,
+    16,
+    17,
+    18
+   ]
+  },
+  {
+   "tipo": "PROJETO DE LEI ORDINÁRIA",
+   "ano": 2026,
+   "encontradas": 40,
+   "maior_numero": 113,
+   "faltando": 73,
+   "exemplos": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    22,
+    23,
+    25,
+    26,
+    29
+   ]
+  },
+  {
+   "tipo": "PROJETO DE RESOLUÇÃO",
+   "ano": 2025,
+   "encontradas": 1,
+   "maior_numero": 5,
+   "faltando": 4,
+   "exemplos": [
+    1,
+    2,
+    3,
+    4
+   ]
+  }
+ ],
+ "avisos": []
+}

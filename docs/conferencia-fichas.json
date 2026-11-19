@@ -1,0 +1,727 @@
+{
+ "comparacoes": 90,
+ "iguais": 90,
+ "divergencias": [],
+ "todas": [
+  {
+   "vereador": "ademir-hubert",
+   "ano": 2025,
+   "tipo": "Indicações",
+   "ficha_oficial": 43,
+   "radar": 43,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/127/0/2025"
+  },
+  {
+   "vereador": "ademir-hubert",
+   "ano": 2025,
+   "tipo": "Moções",
+   "ficha_oficial": 8,
+   "radar": 8,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/127/0/2025"
+  },
+  {
+   "vereador": "ademir-hubert",
+   "ano": 2025,
+   "tipo": "Pedidos de informação",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/127/0/2025"
+  },
+  {
+   "vereador": "ademir-hubert",
+   "ano": 2025,
+   "tipo": "Requerimentos",
+   "ficha_oficial": 2,
+   "radar": 2,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/127/0/2025"
+  },
+  {
+   "vereador": "ademir-hubert",
+   "ano": 2025,
+   "tipo": "Projetos",
+   "ficha_oficial": 2,
+   "radar": 2,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/127/0/2025"
+  },
+  {
+   "vereador": "ademir-hubert",
+   "ano": 2026,
+   "tipo": "Indicações",
+   "ficha_oficial": 39,
+   "radar": 39,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/127/0/2026"
+  },
+  {
+   "vereador": "ademir-hubert",
+   "ano": 2026,
+   "tipo": "Moções",
+   "ficha_oficial": 11,
+   "radar": 11,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/127/0/2026"
+  },
+  {
+   "vereador": "ademir-hubert",
+   "ano": 2026,
+   "tipo": "Pedidos de informação",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/127/0/2026"
+  },
+  {
+   "vereador": "ademir-hubert",
+   "ano": 2026,
+   "tipo": "Requerimentos",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/127/0/2026"
+  },
+  {
+   "vereador": "ademir-hubert",
+   "ano": 2026,
+   "tipo": "Projetos",
+   "ficha_oficial": 2,
+   "radar": 2,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/127/0/2026"
+  },
+  {
+   "vereador": "cristiana-poltronieri-ziehlsdorff",
+   "ano": 2025,
+   "tipo": "Indicações",
+   "ficha_oficial": 53,
+   "radar": 53,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/128/0/2025"
+  },
+  {
+   "vereador": "cristiana-poltronieri-ziehlsdorff",
+   "ano": 2025,
+   "tipo": "Moções",
+   "ficha_oficial": 6,
+   "radar": 6,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/128/0/2025"
+  },
+  {
+   "vereador": "cristiana-poltronieri-ziehlsdorff",
+   "ano": 2025,
+   "tipo": "Pedidos de informação",
+   "ficha_oficial": 1,
+   "radar": 1,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/128/0/2025"
+  },
+  {
+   "vereador": "cristiana-poltronieri-ziehlsdorff",
+   "ano": 2025,
+   "tipo": "Requerimentos",
+   "ficha_oficial": 4,
+   "radar": 4,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/128/0/2025"
+  },
+  {
+   "vereador": "cristiana-poltronieri-ziehlsdorff",
+   "ano": 2025,
+   "tipo": "Projetos",
+   "ficha_oficial": 6,
+   "radar": 6,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/128/0/2025"
+  },
+  {
+   "vereador": "cristiana-poltronieri-ziehlsdorff",
+   "ano": 2026,
+   "tipo": "Indicações",
+   "ficha_oficial": 55,
+   "radar": 55,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/128/0/2026"
+  },
+  {
+   "vereador": "cristiana-poltronieri-ziehlsdorff",
+   "ano": 2026,
+   "tipo": "Moções",
+   "ficha_oficial": 14,
+   "radar": 14,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/128/0/2026"
+  },
+  {
+   "vereador": "cristiana-poltronieri-ziehlsdorff",
+   "ano": 2026,
+   "tipo": "Pedidos de informação",
+   "ficha_oficial": 1,
+   "radar": 1,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/128/0/2026"
+  },
+  {
+   "vereador": "cristiana-poltronieri-ziehlsdorff",
+   "ano": 2026,
+   "tipo": "Requerimentos",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/128/0/2026"
+  },
+  {
+   "vereador": "cristiana-poltronieri-ziehlsdorff",
+   "ano": 2026,
+   "tipo": "Projetos",
+   "ficha_oficial": 1,
+   "radar": 1,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/128/0/2026"
+  },
+  {
+   "vereador": "emerson-flores-da-silva",
+   "ano": 2025,
+   "tipo": "Indicações",
+   "ficha_oficial": 42,
+   "radar": 42,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/129/0/2025"
+  },
+  {
+   "vereador": "emerson-flores-da-silva",
+   "ano": 2025,
+   "tipo": "Moções",
+   "ficha_oficial": 7,
+   "radar": 7,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/129/0/2025"
+  },
+  {
+   "vereador": "emerson-flores-da-silva",
+   "ano": 2025,
+   "tipo": "Pedidos de informação",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/129/0/2025"
+  },
+  {
+   "vereador": "emerson-flores-da-silva",
+   "ano": 2025,
+   "tipo": "Requerimentos",
+   "ficha_oficial": 2,
+   "radar": 2,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/129/0/2025"
+  },
+  {
+   "vereador": "emerson-flores-da-silva",
+   "ano": 2025,
+   "tipo": "Projetos",
+   "ficha_oficial": 6,
+   "radar": 6,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/129/0/2025"
+  },
+  {
+   "vereador": "emerson-flores-da-silva",
+   "ano": 2026,
+   "tipo": "Indicações",
+   "ficha_oficial": 41,
+   "radar": 41,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/129/0/2026"
+  },
+  {
+   "vereador": "emerson-flores-da-silva",
+   "ano": 2026,
+   "tipo": "Moções",
+   "ficha_oficial": 5,
+   "radar": 5,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/129/0/2026"
+  },
+  {
+   "vereador": "emerson-flores-da-silva",
+   "ano": 2026,
+   "tipo": "Pedidos de informação",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/129/0/2026"
+  },
+  {
+   "vereador": "emerson-flores-da-silva",
+   "ano": 2026,
+   "tipo": "Requerimentos",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/129/0/2026"
+  },
+  {
+   "vereador": "emerson-flores-da-silva",
+   "ano": 2026,
+   "tipo": "Projetos",
+   "ficha_oficial": 4,
+   "radar": 4,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/129/0/2026"
+  },
+  {
+   "vereador": "jaime-decker",
+   "ano": 2025,
+   "tipo": "Indicações",
+   "ficha_oficial": 64,
+   "radar": 64,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/118/0/2025"
+  },
+  {
+   "vereador": "jaime-decker",
+   "ano": 2025,
+   "tipo": "Moções",
+   "ficha_oficial": 8,
+   "radar": 8,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/118/0/2025"
+  },
+  {
+   "vereador": "jaime-decker",
+   "ano": 2025,
+   "tipo": "Pedidos de informação",
+   "ficha_oficial": 1,
+   "radar": 1,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/118/0/2025"
+  },
+  {
+   "vereador": "jaime-decker",
+   "ano": 2025,
+   "tipo": "Requerimentos",
+   "ficha_oficial": 3,
+   "radar": 3,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/118/0/2025"
+  },
+  {
+   "vereador": "jaime-decker",
+   "ano": 2025,
+   "tipo": "Projetos",
+   "ficha_oficial": 2,
+   "radar": 2,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/118/0/2025"
+  },
+  {
+   "vereador": "jaime-decker",
+   "ano": 2026,
+   "tipo": "Indicações",
+   "ficha_oficial": 56,
+   "radar": 56,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/118/0/2026"
+  },
+  {
+   "vereador": "jaime-decker",
+   "ano": 2026,
+   "tipo": "Moções",
+   "ficha_oficial": 15,
+   "radar": 15,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/118/0/2026"
+  },
+  {
+   "vereador": "jaime-decker",
+   "ano": 2026,
+   "tipo": "Pedidos de informação",
+   "ficha_oficial": 1,
+   "radar": 1,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/118/0/2026"
+  },
+  {
+   "vereador": "jaime-decker",
+   "ano": 2026,
+   "tipo": "Requerimentos",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/118/0/2026"
+  },
+  {
+   "vereador": "jaime-decker",
+   "ano": 2026,
+   "tipo": "Projetos",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/118/0/2026"
+  },
+  {
+   "vereador": "jocinei-de-oliveira-borba",
+   "ano": 2025,
+   "tipo": "Indicações",
+   "ficha_oficial": 49,
+   "radar": 49,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/130/0/2025"
+  },
+  {
+   "vereador": "jocinei-de-oliveira-borba",
+   "ano": 2025,
+   "tipo": "Moções",
+   "ficha_oficial": 7,
+   "radar": 7,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/130/0/2025"
+  },
+  {
+   "vereador": "jocinei-de-oliveira-borba",
+   "ano": 2025,
+   "tipo": "Pedidos de informação",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/130/0/2025"
+  },
+  {
+   "vereador": "jocinei-de-oliveira-borba",
+   "ano": 2025,
+   "tipo": "Requerimentos",
+   "ficha_oficial": 2,
+   "radar": 2,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/130/0/2025"
+  },
+  {
+   "vereador": "jocinei-de-oliveira-borba",
+   "ano": 2025,
+   "tipo": "Projetos",
+   "ficha_oficial": 6,
+   "radar": 6,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/130/0/2025"
+  },
+  {
+   "vereador": "jocinei-de-oliveira-borba",
+   "ano": 2026,
+   "tipo": "Indicações",
+   "ficha_oficial": 35,
+   "radar": 35,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/130/0/2026"
+  },
+  {
+   "vereador": "jocinei-de-oliveira-borba",
+   "ano": 2026,
+   "tipo": "Moções",
+   "ficha_oficial": 13,
+   "radar": 13,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/130/0/2026"
+  },
+  {
+   "vereador": "jocinei-de-oliveira-borba",
+   "ano": 2026,
+   "tipo": "Pedidos de informação",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/130/0/2026"
+  },
+  {
+   "vereador": "jocinei-de-oliveira-borba",
+   "ano": 2026,
+   "tipo": "Requerimentos",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/130/0/2026"
+  },
+  {
+   "vereador": "jocinei-de-oliveira-borba",
+   "ano": 2026,
+   "tipo": "Projetos",
+   "ficha_oficial": 4,
+   "radar": 4,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/130/0/2026"
+  },
+  {
+   "vereador": "marcelo-amadeu-deretti",
+   "ano": 2025,
+   "tipo": "Indicações",
+   "ficha_oficial": 72,
+   "radar": 72,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/120/0/2025"
+  },
+  {
+   "vereador": "marcelo-amadeu-deretti",
+   "ano": 2025,
+   "tipo": "Moções",
+   "ficha_oficial": 6,
+   "radar": 6,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/120/0/2025"
+  },
+  {
+   "vereador": "marcelo-amadeu-deretti",
+   "ano": 2025,
+   "tipo": "Pedidos de informação",
+   "ficha_oficial": 3,
+   "radar": 3,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/120/0/2025"
+  },
+  {
+   "vereador": "marcelo-amadeu-deretti",
+   "ano": 2025,
+   "tipo": "Requerimentos",
+   "ficha_oficial": 3,
+   "radar": 3,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/120/0/2025"
+  },
+  {
+   "vereador": "marcelo-amadeu-deretti",
+   "ano": 2025,
+   "tipo": "Projetos",
+   "ficha_oficial": 8,
+   "radar": 8,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/120/0/2025"
+  },
+  {
+   "vereador": "marcelo-amadeu-deretti",
+   "ano": 2026,
+   "tipo": "Indicações",
+   "ficha_oficial": 38,
+   "radar": 38,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/120/0/2026"
+  },
+  {
+   "vereador": "marcelo-amadeu-deretti",
+   "ano": 2026,
+   "tipo": "Moções",
+   "ficha_oficial": 8,
+   "radar": 8,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/120/0/2026"
+  },
+  {
+   "vereador": "marcelo-amadeu-deretti",
+   "ano": 2026,
+   "tipo": "Pedidos de informação",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/120/0/2026"
+  },
+  {
+   "vereador": "marcelo-amadeu-deretti",
+   "ano": 2026,
+   "tipo": "Requerimentos",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/120/0/2026"
+  },
+  {
+   "vereador": "marcelo-amadeu-deretti",
+   "ano": 2026,
+   "tipo": "Projetos",
+   "ficha_oficial": 7,
+   "radar": 7,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/120/0/2026"
+  },
+  {
+   "vereador": "marildo-da-silva-erthal",
+   "ano": 2025,
+   "tipo": "Indicações",
+   "ficha_oficial": 43,
+   "radar": 43,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/131/0/2025"
+  },
+  {
+   "vereador": "marildo-da-silva-erthal",
+   "ano": 2025,
+   "tipo": "Moções",
+   "ficha_oficial": 6,
+   "radar": 6,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/131/0/2025"
+  },
+  {
+   "vereador": "marildo-da-silva-erthal",
+   "ano": 2025,
+   "tipo": "Pedidos de informação",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/131/0/2025"
+  },
+  {
+   "vereador": "marildo-da-silva-erthal",
+   "ano": 2025,
+   "tipo": "Requerimentos",
+   "ficha_oficial": 2,
+   "radar": 2,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/131/0/2025"
+  },
+  {
+   "vereador": "marildo-da-silva-erthal",
+   "ano": 2025,
+   "tipo": "Projetos",
+   "ficha_oficial": 3,
+   "radar": 3,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/131/0/2025"
+  },
+  {
+   "vereador": "marildo-da-silva-erthal",
+   "ano": 2026,
+   "tipo": "Indicações",
+   "ficha_oficial": 43,
+   "radar": 43,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/131/0/2026"
+  },
+  {
+   "vereador": "marildo-da-silva-erthal",
+   "ano": 2026,
+   "tipo": "Moções",
+   "ficha_oficial": 7,
+   "radar": 7,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/131/0/2026"
+  },
+  {
+   "vereador": "marildo-da-silva-erthal",
+   "ano": 2026,
+   "tipo": "Pedidos de informação",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/131/0/2026"
+  },
+  {
+   "vereador": "marildo-da-silva-erthal",
+   "ano": 2026,
+   "tipo": "Requerimentos",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/131/0/2026"
+  },
+  {
+   "vereador": "marildo-da-silva-erthal",
+   "ano": 2026,
+   "tipo": "Projetos",
+   "ficha_oficial": 3,
+   "radar": 3,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/131/0/2026"
+  },
+  {
+   "vereador": "osvaldo-pereira-barbosa",
+   "ano": 2025,
+   "tipo": "Indicações",
+   "ficha_oficial": 74,
+   "radar": 74,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/121/0/2025"
+  },
+  {
+   "vereador": "osvaldo-pereira-barbosa",
+   "ano": 2025,
+   "tipo": "Moções",
+   "ficha_oficial": 7,
+   "radar": 7,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/121/0/2025"
+  },
+  {
+   "vereador": "osvaldo-pereira-barbosa",
+   "ano": 2025,
+   "tipo": "Pedidos de informação",
+   "ficha_oficial": 2,
+   "radar": 2,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/121/0/2025"
+  },
+  {
+   "vereador": "osvaldo-pereira-barbosa",
+   "ano": 2025,
+   "tipo": "Requerimentos",
+   "ficha_oficial": 4,
+   "radar": 4,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/121/0/2025"
+  },
+  {
+   "vereador": "osvaldo-pereira-barbosa",
+   "ano": 2025,
+   "tipo": "Projetos",
+   "ficha_oficial": 1,
+   "radar": 1,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/121/0/2025"
+  },
+  {
+   "vereador": "osvaldo-pereira-barbosa",
+   "ano": 2026,
+   "tipo": "Indicações",
+   "ficha_oficial": 56,
+   "radar": 56,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/121/0/2026"
+  },
+  {
+   "vereador": "osvaldo-pereira-barbosa",
+   "ano": 2026,
+   "tipo": "Moções",
+   "ficha_oficial": 8,
+   "radar": 8,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/121/0/2026"
+  },
+  {
+   "vereador": "osvaldo-pereira-barbosa",
+   "ano": 2026,
+   "tipo": "Pedidos de informação",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/121/0/2026"
+  },
+  {
+   "vereador": "osvaldo-pereira-barbosa",
+   "ano": 2026,
+   "tipo": "Requerimentos",
+   "ficha_oficial": 0,
+   "radar": 0,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/121/0/2026"
+  },
+  {
+   "vereador": "osvaldo-pereira-barbosa",
+   "ano": 2026,
+   "tipo": "Projetos",
+   "ficha_oficial": 1,
+   "radar": 1,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/121/0/2026"
+  },
+  {
+   "vereador": "professora-maria-rosana",
+   "ano": 2025,
+   "tipo": "Indicações",
+   "ficha_oficial": 91,
+   "radar": 91,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/116/0/2025"
+  },
+  {
+   "vereador": "professora-maria-rosana",
+   "ano": 2025,
+   "tipo": "Moções",
+   "ficha_oficial": 8,
+   "radar": 8,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/116/0/2025"
+  },
+  {
+   "vereador": "professora-maria-rosana",
+   "ano": 2025,
+   "tipo": "Pedidos de informação",
+   "ficha_oficial": 5,
+   "radar": 5,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/116/0/2025"
+  },
+  {
+   "vereador": "professora-maria-rosana",
+   "ano": 2025,
+   "tipo": "Requerimentos",
+   "ficha_oficial": 8,
+   "radar": 8,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/116/0/2025"
+  },
+  {
+   "vereador": "professora-maria-rosana",
+   "ano": 2025,
+   "tipo": "Projetos",
+   "ficha_oficial": 11,
+   "radar": 11,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/116/0/2025"
+  },
+  {
+   "vereador": "professora-maria-rosana",
+   "ano": 2026,
+   "tipo": "Indicações",
+   "ficha_oficial": 96,
+   "radar": 96,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/116/0/2026"
+  },
+  {
+   "vereador": "professora-maria-rosana",
+   "ano": 2026,
+   "tipo": "Moções",
+   "ficha_oficial": 15,
+   "radar": 15,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/116/0/2026"
+  },
+  {
+   "vereador": "professora-maria-rosana",
+   "ano": 2026,
+   "tipo": "Pedidos de informação",
+   "ficha_oficial": 15,
+   "radar": 15,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/116/0/2026"
+  },
+  {
+   "vereador": "professora-maria-rosana",
+   "ano": 2026,
+   "tipo": "Requerimentos",
+   "ficha_oficial": 6,
+   "radar": 6,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/116/0/2026"
+  },
+  {
+   "vereador": "professora-maria-rosana",
+   "ano": 2026,
+   "tipo": "Projetos",
+   "ficha_oficial": 8,
+   "radar": 8,
+   "url": "https://www.guaramirim.sc.leg.br/camara/membros/show/116/0/2026"
+  }
+ ]
+}

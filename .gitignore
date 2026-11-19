@@ -1,0 +1,5 @@
+dados/pdf-atas/
+dados/radar-ultima-validada.json
+__pycache__/
+.DS_Store
+*.local
