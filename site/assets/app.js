@@ -20,9 +20,10 @@
   const periodoTxt = () => `de ${dt(D.periodo.inicio)} a ${dt(D.periodo.fim)}`;
   const periodoBox = (extra = "") => `<p class="periodo"><span>Período consultado:</span> <strong>${periodoTxt()}</strong>${extra}</p>`;
   const iniciais = (nome) => nome.split(/\s+/).filter((p) => p.length > 2).slice(0, 2).map((p) => p[0]).join("");
+  const semFoto = (v) => `<span class="foto" aria-hidden="true" style="display:grid;place-items:center;font:600 20px var(--serif);color:var(--dourado-forte)">${esc(iniciais(v.nome))}</span>`;
   const foto = (v) => v.foto
-    ? `<img class="foto" src="${esc(v.foto)}" alt="" loading="lazy" referrerpolicy="no-referrer">`
-    : `<span class="foto" aria-hidden="true" style="display:grid;place-items:center;font:600 20px var(--serif);color:var(--dourado-forte)">${esc(iniciais(v.nome))}</span>`;
+    ? `<img class="foto" src="${esc(v.foto)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML=this.dataset.f" data-f="${esc(semFoto(v))}">`
+    : semFoto(v);
 
   function itemMateria(m, mostrarAutor = true) {
     return `<li>
